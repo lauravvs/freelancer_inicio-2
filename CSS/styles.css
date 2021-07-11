@@ -2,10 +2,11 @@
     --blanco: #ffffff ;
     --oscuro: #212121;
     --primario: #FFC107;
+    --secundario: #0097A7;
+    --gris: #757575;
 
 
 }
-
 
 
 html {
@@ -14,15 +15,17 @@ html {
 }
 body {
 font-size: 16px; 
+font-family: 'Krub', sans-serif;
 }
 
 .titulo  {
     text-align: center;
     font-size: 3.8rem;
-color: var(--primario);
-
+    font-family: 'Krub', sans-serif; 
+   
 }
 
 .titulo span {
     font-size: 2rem;
+    font-family: 'Krub', sans-serif;    
 }

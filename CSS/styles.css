@@ -28,7 +28,7 @@ background-image: linear-gradient(to top, #dfe9fe 0%, VAR(--blanco) 100%); /*col
 }
 
 .contenedor {
-    width: 120rem;
+    max-width: 120rem;
   margin: 0 auto;
 }
 
@@ -285,7 +285,7 @@ grid-column: 1/3 ;
 
 
 .campo textarea{    
-    height: 20rem;
+    height: 17rem;
 }
 
 
